@@ -188,6 +188,11 @@
     margin-top: 26px;
     width: 12%;
 }
+.home12{
+    width: 10%;
+    padding-right: 131px;
+    padding-top: 195px;
+}
 .clubod{
     overflow-y: hidden;
 }
@@ -204,6 +209,7 @@
     color: hotpink;
     font-weight: bold;
     font-size: 20px; 
+    text-shadow: 2px 2px 8px;
 }
 .csclubbod{
     display: flex;
@@ -212,7 +218,56 @@
     margin-left: -15px;
     zoom: 93%;
     overflow-x: hidden;
-    background-image: url("https://wallpapers.com/images/high/rows-of-lights-aesthetic-purple-neon-computer-1xy2ohmk6gfe95ox.webp");
+    background-image: url("https://wallpapers.com/images/high/empty-hallway-aesthetic-purple-neon-computer-scigu0r8hwr9f3jz.webp");
     background-repeat: no-repeat;
     background-size: cover;
+}
+.btn{
+    margin-top: 5%;
+    width: 48.5%;
+    position: absolute;
+    margin-left: 24%;
+    height: 70px;
+    background: transparent;
+    border-width: 6px;
+}
+.btn p{
+    font-weight: bold;
+    font-size: 20px;
+    text-shadow: 2px 2px 8px;
+}
+.feedback{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: 15px;
+    zoom: 93%;
+    overflow-x: hidden;
+    background-image: url("https://wallpapers.com/images/hd/monstera-leaves-with-light-purple-lighting-5y0ip70zbcrlj1nw.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.col-md-4{
+    text-shadow: 2px 2px 8px;
+    font-size: 120%;
+}
+.col-md-8{
+    text-shadow: 2px 2px 8px;
+    font-size: 120%;
+}
+.bf{
+    padding-left: 1160px;
+    width: 6%;
+    margin-top: 22px;
+    margin-bottom: -139px;
+}
+.col-md-8 h1{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 42px;
+    margin-left: 558px;
+}
+.back{
+    width: 14%;
+    margin-left: 18px;
+    margin-bottom: 2px;
 }
