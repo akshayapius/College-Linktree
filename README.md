@@ -8,7 +8,7 @@ The website is made using HTML and CSS, deploying HTML features such as Bootstra
 
 ## Acknowledgements
 
- - [Easy-to-use stickers](hhttps://flaticon.com)
+ - [Easy-to-use stickers](https://flaticon.com)
  - [HD wallpapers](https://wallpapers.com)
  - [For language based queries](https://w3schools.com)
  - [HTML and CSS tutorials](https://www.youtube.com/results?search_query=brototype)
