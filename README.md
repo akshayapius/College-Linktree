@@ -73,8 +73,8 @@ department
 cse
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/91876904/208283521-2ce5db01-adc3-4558-b21f-1d72b97bc8f7.png">
 feedback
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/91876904/208283594-5a2f519a-663b-444e-b4e4-aa1126be5b12.png">
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/91876904/208283577-f6f0c448-71c5-472b-8dad-d5092e41de33.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/91876904/208283594-5a2f519a-663b-444e-b4e4-aa1126be5b12.png">
 
 
 
