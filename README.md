@@ -61,7 +61,7 @@ The website's main page contains the following:
 - Aesthetically Pleasing
 
 
-index
+index<br>
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/91876904/208283409-b0169f50-18fe-460b-b5aa-9143187d3423.png">
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/91876904/208283425-3166d1fc-bcc8-48a4-847f-7067bdcc07c6.png">
 contact
