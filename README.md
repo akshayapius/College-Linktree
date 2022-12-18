@@ -61,18 +61,18 @@ The website's main page contains the following:
 - Aesthetically Pleasing
 
 
-#####index
+index
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/91876904/208283409-b0169f50-18fe-460b-b5aa-9143187d3423.png">
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/91876904/208283425-3166d1fc-bcc8-48a4-847f-7067bdcc07c6.png">
-#####icontact
+contact
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/91876904/208283433-b93678dc-a689-4ade-be72-62f353654d8a.png">
-#####community
+community
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/91876904/208283459-4a933993-df9a-416e-91a1-8a2d3a598a51.png">
-#####department
+department
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/91876904/208283464-9edbdd66-f2ac-4ce1-b40c-266926f1b5d2.png">
-#####cse
+cse
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/91876904/208283521-2ce5db01-adc3-4558-b21f-1d72b97bc8f7.png">
-#####feedback
+feedback
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/91876904/208283594-5a2f519a-663b-444e-b4e4-aa1126be5b12.png">
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/91876904/208283577-f6f0c448-71c5-472b-8dad-d5092e41de33.png">
 
