@@ -230,11 +230,13 @@
     height: 70px;
     background: transparent;
     border-width: 6px;
+    border-color: #fe1493;
 }
 .btn p{
     font-weight: bold;
     font-size: 20px;
     text-shadow: 2px 2px 8px;
+    color: #fe1493;
 }
 .feedback{
     display: flex;
@@ -250,10 +252,12 @@
 .col-md-4{
     text-shadow: 2px 2px 8px;
     font-size: 120%;
+    color: #fe1493;
 }
 .col-md-8{
     text-shadow: 2px 2px 8px;
     font-size: 120%;
+    color: #fe1493;
 }
 .bf{
     padding-left: 1160px;
