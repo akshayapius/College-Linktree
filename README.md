@@ -19,6 +19,7 @@ The website is made using HTML and CSS, deploying HTML features such as Bootstra
 - [@ashnaregi](https://www.github.com/Ashna2002)
 - [@alphonsasiby](https://www.github.com/Alphs28)
 - [@akshayapius](https://www.github.com/akshayapius)
+- [@anandhues](https://github.com/anandhues)
 
 ## Documentation
 
